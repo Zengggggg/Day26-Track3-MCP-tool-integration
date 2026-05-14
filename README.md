@@ -199,7 +199,7 @@ Or set it manually:
 
 ```powershell
 $env:DATABASE_URL = "postgresql://user:password@localhost:5432/sqlite_lab"
-python implementation\mcp_server.py
+python implementation\verify_server.py
 ```
 
 The MCP tool surface is unchanged. PostgreSQL must contain tables compatible with the lab dataset, such as `students`, `courses`, and `enrollments`. The default tests do not require a live PostgreSQL server.
