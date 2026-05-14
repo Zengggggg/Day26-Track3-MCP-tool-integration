@@ -1,0 +1,4 @@
+[mcp_servers.sqlite_lab]
+command = "D:\\AI_IN_ACTION\\LAB\\Asg26\\Day26-Track3-MCP-tool-integration\\.venv\\Scripts\\python.exe"
+args = ["D:\\AI_IN_ACTION\\LAB\\Asg26\\Day26-Track3-MCP-tool-integration\\implementation\\mcp_server.py"]
+
